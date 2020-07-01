@@ -39,13 +39,8 @@ xticklist=[]
 Host declare (Dangerous)
 (change the host declare method )
 
-DIGI : 140.92.25.91
-SSI : 140.92.12.22
-DSI : 211.21.93.157 
-DSI : 192.168.102.1
-DEI : 140.92.18.248
 '''
-host= ['140.92.25.91','140.92.12.22','211.21.93.157','192.168.102.1','140.92.18.248']
+host=[]
 
 # Set Storage Path
 StoragePath= ['/log/firewall_log', '/opt/ctrl/monitor_firewall/csv', '/var/log/suricata', '/opt/ctrl/monitor_firewall/csv/pic_month']
